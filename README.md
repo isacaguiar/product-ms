@@ -16,7 +16,7 @@ O jar do serviço está no diretório "/target".
 
 ## API
 
-A documentação da API poderá ser visualizada no link http://url:9999/swagger-ui.html, ex.: http://localhost:9999/swagger-ui.html.
+A documentação da API poderá ser visualizada no link http://host:9999/swagger-ui.html, ex.: http://localhost:9999/swagger-ui.html.
 
 
 ## IDE
